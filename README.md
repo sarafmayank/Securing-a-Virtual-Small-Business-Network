@@ -1,7 +1,3 @@
-Here’s the content for your **GitHub README file** as plain text:
-
----
-
 # Securing a Virtual Small Business Network
 
 ## **Project Description**
@@ -60,6 +56,3 @@ This project demonstrates the setup, vulnerability assessment, exploitation, and
    ```
 2. Follow the step-by-step implementation guide included in the repository to replicate the project.
 
----
-
-If you’d like me to refine this further or customize it, let me know!
